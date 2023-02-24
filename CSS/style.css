@@ -1,0 +1,77 @@
+@import url('https://fonts.googleapis.com/css2?family=Julee&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Julee&family=PT+Serif:ital@1&display=swap');
+
+
+
+
+
+
+
+*,html{
+    padding:0;
+    margin:0;
+}
+
+header{
+    background-color: rgb(233, 123, 44);
+    color: rgb(8, 2, 56);
+    text-align: center;
+    font-size: 80px;
+    height: 200px;
+    width: 100%;
+    font-family:'Julee', cursive;
+    
+}
+main{
+    background-color: rgb(234, 240, 240);
+    text-align: center;
+    height:400vh;
+    width:100%;
+    font-family:'PT Serif', serif;
+
+
+}
+#first{
+    color: #490505;
+    font-size: medium;
+    
+}
+#second{
+    color: #0a0a0a;
+    font-size: small;
+}
+#third{
+    color: #453f3c;
+    font-size: small;
+}
+.textInfo{
+    background-color: #b3eba2;
+    font-family:'Roboto Mono', monospace;
+}
+.textsize{
+    font-size: medium;
+
+}
+.colors{
+    background-color: #ece1b7;
+    color: #d9a2b0;
+
+}
+.maindiv{
+    height: 325px;
+    width:30%;
+    background-color: floralwhite;
+    border: 2px solid #272525;
+    margin: 10px 10px 5px 75px;
+    border-radius: 3px;
+
+}
+footer{
+    width:100%;
+    height:150px;
+    background-color: rgb(167, 167, 222);
+    bottom:0;
+    position: fixed;
+    text-align: center;
+    
+}
